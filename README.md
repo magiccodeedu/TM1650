@@ -1,12 +1,12 @@
-# 创乐博microbit 开发板四位数码管 (TM1650)
+# microbit LED Driver (TM1650)
 用于micro:bit 开发板的四位数码管(TM1650)包  
 
 
 四位数码管电路，基于microbot扩展板上，为7段四位数码管带点，可以显示数字，支持小数点显示
 ，内置TM1650驱动芯片，采用IIC总线控制。
 
-编辑: 朱林  
-时间: 2020年1月10日  
+编辑: Jimmy
+时间: 2022年12月31日  
 
 ![](https://raw.githubusercontent.com/microbit-makecode-packages/TM1650/master/icon.png)
 
@@ -14,7 +14,7 @@
 
 打开你的Makecode 编程环境，在扩展中复制如下链接： 
 
-https://github.com/zhuning239/TM1650  
+https://github.com/magiccodeedu/TM1650  
 
 输入到搜索框进行搜索。
 
@@ -56,11 +56,9 @@ https://github.com/zhuning239/TM1650
 
 MIT
 
-湖南创乐博智能科技有限公司
-
 ## Supported targets  
 
 * for PXT/microbit
 
 
-[湖南创乐博智能科技有限公司](www.loborobot.com)
+[Magic Code Education Center](www.magiccode.com.au)
